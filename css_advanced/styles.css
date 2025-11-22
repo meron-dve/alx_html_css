@@ -1,0 +1,107 @@
+header {
+background-image: url('./images/CSsimage /Object.png'); 
+  background-size: cover; 
+  background-position: center;
+  height: 800px;
+ color: beige;
+}
+body {
+margin: 0px; 
+}
+ h1 {
+    margin-bottom: 0px;
+    margin-top: -640px;
+text-align: center;
+font-size: 80px;
+    color:white;
+    font-weight: bolder;
+
+}
+.div {
+    margin-bottom: 0px;
+}
+span {
+color: white;
+    text-align: center;
+}
+.item {
+  margin-right: 20px; 
+  text-align: center;
+  padding-top: 0px;
+  margin-top: 0px;
+
+}
+.etm {
+margin-left: 250px;
+}
+
+.span1 {
+     margin-left: 10px;
+    
+}
+.year {
+    padding-left: 230px;
+}
+
+.navbar {
+display: flex;
+justify-content: space-between;
+    list-style: none;
+    
+}
+li {
+    display: inline;
+   
+}
+nav {
+    margin-right: 70px;
+}
+a:link {
+  color: white;
+text-decoration-line: none;
+  margin-right: 0pxx;  
+  padding-right: 10px;
+  font-size: small;
+  font-family: cursive;
+}
+.img {
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 110px;
+    height: 20px;
+}
+button {
+    background-color: darkorchid;
+    color: wheat;
+    height: 50px;
+    width: 190px;
+    border-radius: 25px;
+    border-color: transparent;
+    box-shadow: none;
+    margin-left: 530px;
+    margin-top: 40px;
+    
+   
+}
+#fly {
+    display: flex;
+    margin-top: 70px;
+    flex-direction: row;
+    justify-content: space-evenly;
+color:white;
+margin-left: 20px;
+}
+.mg {
+border-radius: 50%;
+height: 50%;
+}
+
+
+#im {
+    color: darkorchid;
+}
+.learn {
+    text-align: center;
+    color: white;
+    padding-top: 90px;
+}
