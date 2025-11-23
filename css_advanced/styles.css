@@ -6,7 +6,8 @@ background-image: url('./images/CSsimage /Object.png');
  color: beige;
 }
 body {
-margin: 0px; 
+margin: 0px;
+padding-bottom: 0px; 
 }
  h1 {
     margin-bottom: 0px;
@@ -85,11 +86,13 @@ button {
 }
 #fly {
     display: flex;
-    margin-top: 70px;
+   
     flex-direction: row;
     justify-content: space-evenly;
 color:white;
 margin-left: 20px;
+margin-bottom: 0px;
+padding-bottom: 0px;
 }
 .mg {
 border-radius: 50%;
@@ -104,4 +107,32 @@ height: 50%;
     text-align: center;
     color: white;
     padding-top: 90px;
+}
+.section {
+    background-color: rgb(183, 83, 233);
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    padding-top: 0px;
+    height: 200px;
+}
+#mg {
+    border-radius: 50%;
+    width: 130px;
+    padding-top: 35px;
+    padding-bottom:50px;
+   
+
+    
+}
+.hk {
+    padding-left: 50px;
+     padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 30px;
+color: antiquewhite;
+}
+.head {
+    padding-bottom: 0px;
+    margin-bottom: -15px;
 }
