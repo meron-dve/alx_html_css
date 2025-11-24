@@ -136,3 +136,54 @@ color: antiquewhite;
     padding-bottom: 0px;
     margin-bottom: -15px;
 }
+.h {
+    margin-bottom:  0px;
+}
+.l {
+margin-top: 0px;
+}
+.mm {
+    text-align: center;
+    color: black;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.kk {
+    background-color: antiquewhite;
+
+}
+.o {
+    color: darkorchid;
+}
+.Div {
+    display: flex;
+    flex-direction: row;
+
+  gap: 20px;         /* space between items */
+  justify-content: center;  /* center the items */
+  flex-wrap: wrap; 
+    
+}
+.item {
+    text-align: center;
+    width: 150px;   /* change size as you want */
+  height: auto;
+  border-radius: 10px;
+}
+.iop {
+    width: 20%;
+    border-radius: 5%;
+    width: 150px;   /* change size as you want */
+  height: auto;
+  border-radius: 10px;
+}
+.ml{
+    display: inline-block;
+
+    justify-content: space-between;
+    color: darkorchid;
+
+}
+.ee {
+    width: 10%;
+}
